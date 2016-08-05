@@ -1,0 +1,14 @@
+{
+	"name": "petro",
+	"title": "index",
+	"items": [
+		{"name": "nick", "age": "10"},
+		{"name": "andrew", "age": "22"}
+	],
+	"includes": {
+		"gallery": {
+			"title": "gallery",
+			"class": true
+		}
+	}
+}
